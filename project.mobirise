@@ -969,7 +969,7 @@
           "title": "Sign Up For The BETA",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
           "form": {
-            "action": "http://site.klumaa.tv/Klumaa.html",
+            "action": "http://site.klumaa.tv/page4.html",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
