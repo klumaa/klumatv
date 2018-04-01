@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klumaa",
-    "currentPage": "page5.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -666,7 +666,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "LivePlatformJoke",
+        "title": "Broadcasting",
         "order": 2
       },
       "components": [
@@ -1138,7 +1138,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
-        "title": "LivePlatformJoke1",
+        "title": "Broadcasting Beta",
         "order": 3
       },
       "components": [
