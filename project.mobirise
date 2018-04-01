@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klumaa",
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -742,7 +742,7 @@
           },
           "title": "Welcome to KlumaaTV",
           "text": "True Live Gaming Platform",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.twitch.tv/team/klumaarmy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.twitch.tv/klumaa\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -969,7 +969,7 @@
           "title": "Sign Up For The BETA",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
           "form": {
-            "action": "http://site.klumaa.tv/LivePlatformJoke1.html",
+            "action": "",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1381,7 +1381,7 @@
           },
           "title": "[PC] Hello? Potato Aims?<br>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Follow</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Follow</a>",
           "_tags": [
             "Theme"
           ],
