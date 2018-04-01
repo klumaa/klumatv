@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klumaa",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -780,7 +780,7 @@
           },
           "title": "Sign up for the BETA",
           "text": "Live Streams are Closed Beta Signup!",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page3.html#form2-l\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page3.html#form2-l\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "_tags": [
             "Theme"
           ],
@@ -836,7 +836,7 @@
           },
           "title1": "Interactive Live Streams",
           "caption1": "Get The Best True Live Gaming on PC, Console, Mobile and well the best Stream Alerts you can find on KlumaaTV&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -859,7 +859,7 @@
           },
           "title2": "True Xbox One Streams",
           "caption2": "You can find the KlumaaTV App Starting April 2nd on the Xbox One with built in Overlay Maker, Swapping Games? No Problem you stay live with KlumaaTV App",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -882,7 +882,7 @@
           },
           "title3": "WEB FONTS",
           "caption3": "PS4 is truly an amazing platform we have intergrated the best app to broadcast from Starting April 2nd you can find the app in the PSN Store.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -905,7 +905,7 @@
           },
           "title4": "Support",
           "caption4": "We have The Best Support Staff to help you with any problems you may happen to have, our support agents not only help you but fix the problem will stay in touch with you while you experience the issue",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
