@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klumaa",
-    "currentPage": "Klumaa.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -100,7 +100,7 @@
           },
           "title": "KlumaaTV Live Gaming",
           "text": "Want to Live Stream? This Platform is Closed Beta",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://site.klumaa.tv/broadcasts/klumaa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live Stream</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Klumaa.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live Stream</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
