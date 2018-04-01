@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klumaa",
-    "currentPage": "BroadcastsKlumaa.html",
+    "currentPage": "Klumaa.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1282,7 +1282,7 @@
         }
       ]
     },
-    "BroadcastsKlumaa.html": {
+    "Klumaa.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "klumaa",
