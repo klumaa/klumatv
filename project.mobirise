@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Klumaa",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -728,7 +728,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "images/bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x971.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
